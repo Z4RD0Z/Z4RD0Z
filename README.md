@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Symfony, DDD, Rust
-- 📫 How to reach me: [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Z4RD0Z) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/andrea-lomazzo-z4rd0z) .
+- 📫 How to reach me: [Twitter](https://twitter.com/Z4RD0Z), [Linkedin](https://it.linkedin.com/in/andrea-lomazzo-z4rd0z) .
 
 
 ### Technologies and Tools
