@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: TypeScript
+- 🌱 I’m currently learning: ~~TypeScript~~ ~~go~~ rust 
 - 📫 How to reach me: [Twitter](https://twitter.com/Z4RD0Z), [Linkedin](https://it.linkedin.com/in/andrea-lomazzo-z4rd0z) .
 
 
