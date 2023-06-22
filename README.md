@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: ~~TypeScript~~ ~~go~~ rust 
 - 📫 How to reach me: [Mastodon](https://livellosegreto.it/@zardoz), [Linkedin](https://it.linkedin.com/in/andrea-lomazzo-z4rd0z) .
 
 
