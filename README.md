@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [Mastodon](https://mastodon.uno/@zard0z), [Linkedin](https://it.linkedin.com/in/andrea-lomazzo-z4rd0z) .
+- 📫 How to reach me: [Linkedin](https://it.linkedin.com/in/andrea-lomazzo-z4rd0z) .
 
 
 ### Technologies and Tools
